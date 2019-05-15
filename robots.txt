@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooheecooso.xieyubin.com/sitemap.xml
